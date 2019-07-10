@@ -1,4 +1,5 @@
 public class CustomCalculator {
+    //TEST코드 바로 만들려면 ctrl + shift + T
     public int add(int valueNum1, int valueNum2){
         return valueNum1 + valueNum2;
     }
